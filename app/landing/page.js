@@ -5,7 +5,7 @@ import gsap from "gsap";
 import Hero from "../components/hero";
 
 
-const page = () => {
+const Page = () => {
   const router = useRouter();
   const [shopTimeline, setShopTimeline] = useState();
 
@@ -29,4 +29,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
