@@ -13,7 +13,7 @@ const Shop = () => {
     <main className={`bg-[#A6E22E] h-screen`}>
         <div className='h-full -translate-x-[20%]' ref={navRef}><Nav/></div>
         <section>
-
+            
         </section>
     </main>
   )

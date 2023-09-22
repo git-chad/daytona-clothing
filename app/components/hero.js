@@ -92,7 +92,7 @@ const Hero = ({ timeline }) => {
                   className="overflow-hidden block translate-y-[100%]"
                   ref={(text) => textRefs.current.push(text)}
                 >
-                  inspiration from Tokyo's dynamic streets, this brand offers:{" "}
+                  inspiration from Tokyo&apos;s dynamic streets, this brand offers:{" "}
                 </span>
               </span>
               <span className="overflow-hidden block font-light">
